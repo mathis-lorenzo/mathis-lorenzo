@@ -3,6 +3,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mathis-lorenzo" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/mathis-lorenzo" target="_blank"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href='https://gitlab.com/mathis-lorenzo' target="_blank"><img alt='Gitlab' src='https://img.shields.io/badge/Gitlab-100000?style=for-the-badge&logo=Gitlab&logoColor=white&labelColor=2a2b61&color=2a2b61'/></a>
   
 ## About me
 
