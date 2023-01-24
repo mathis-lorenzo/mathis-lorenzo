@@ -8,8 +8,7 @@
 ## About me
 
 <p aling="left"><samp><p>I am a 20 years old student developer. I'm currently in 3rd year at <a>{Epitech.}</a> Montpellier.</p><br>
-<p>I'm currently in a part-time job at <a href="https://www.80bucks-agency.com/creation-app-mobile">80Bucks Agency</a> as Flutter developer since October 2022. This part-time will end in march 2023 and 
-I'm looking for a full time internship starting in April and ending in March 2023.</p><br>
+<p>I'm currently in a part-time job at <a href="https://www.80bucks-agency.com/creation-app-mobile">80Bucks Agency</a> as Flutter developer since October 2022.</p><br>
 
 </samp></p>
 
