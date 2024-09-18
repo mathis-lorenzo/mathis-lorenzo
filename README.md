@@ -7,7 +7,7 @@
   
 ## About me
 
-<p aling="left"><samp><p>I am a 20 years old student developer. I'm currently in 5th year at <a>{Epitech.}</a> Montpellier.</p><br>
+<p aling="left"><samp><p>I am a 22 years old student developer. I'm currently in 5th year at <a>{Epitech.}</a> Montpellier.</p><br>
 
 </samp></p>
 
