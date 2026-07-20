@@ -24,7 +24,7 @@ Je développe aussi des **extensions Chrome** pour résoudre des problèmes conc
 
 **+10 applications mobiles** livrées via [Mobify](https://mobify.fr) pour des startups et PME, avec paiements Stripe, géolocalisation, QR codes et fonctionnalités temps réel.
 
-**Recolinks** (Premonia Sarl) `Flutter` `React.js` `Next.js`
+**Recolinks** `Flutter` `React.js` `Next.js`
 > Plateforme de recommandations de confiance. Développement de l'app mobile cross-platform from scratch avec Flutter et de l'application web en React.js pour les professionnels. +1 000 recommandations générées dans les 2 premiers mois.
 
 **Gawa** `Flutter` `Firebase` `Google Maps`
